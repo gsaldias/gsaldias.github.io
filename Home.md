@@ -1,6 +1,6 @@
 ---
 
-title: "About me"
+title: ""
 layout: page
 
 ---
