@@ -33,12 +33,4 @@ comments:
 #  isso_domain: ""         # see https://posativ.org/isso/
 
 plugins:
-- jekyll-sitemap
-- jekyll-mentions
-- jekyll-paginate
-- jekyll-seo-tag
-- jekyll-redirect-from
 - jekyll-feed
-- jekyll-commonmark
-- jekyll-include-cache
-- jemoji
