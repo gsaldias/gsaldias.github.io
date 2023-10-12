@@ -3,6 +3,7 @@ layout: page
 title: "About me"
 ---
 ![Gonzalo](/assets/Gonzalo_Profile.png){: style="float: left"} ## Education
+
 Gonzalo Saldías
 Assistant Professor
 Department of Physics
