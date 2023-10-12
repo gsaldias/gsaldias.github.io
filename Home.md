@@ -1,8 +1,8 @@
 ---
+
 title: "About me"
 layout: page
-feature_text: Coastal Physical Processes
-feature_image: "/assets/Itata.jpg"
+
 ---
 
 ![](/assets/Itata.jpg)
