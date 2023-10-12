@@ -9,7 +9,7 @@ date_format: "%B %d, %Y"
 # Layout
 
 show_excerpts: true        # show article excerpts on the home page
-show_frame: true           # adds a gray frame to the site
+show_frame: false           # adds a gray frame to the site
 show_sidebar: false        # show a sidebar instead of the usual header
 minimal: true             # use a dark header
 
@@ -21,7 +21,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "Research.md", title: Research}
   - {file: "Publications.md", title: Publications}
   - {file: "People.md", title: People}
-  - {file: "/CV.pdf", title: CV}
+  - {file: "CV.pdf", title: CV}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:gsaldias@ubiobio.cl"}
