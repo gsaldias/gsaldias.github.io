@@ -1,5 +1,5 @@
 title: "Gonzalo Saldías, PhD"
-author: "Gonzalo Saldías"
+# author: "Gonzalo Saldías"
 description: "Coastal Physical Oceanography at the Department of Physics, University of Bio-Bio, Concepción, Chile"
 permalink: /:title/
 lang: "en"
@@ -8,7 +8,7 @@ date_format: "%B %d, %Y"
 
 # Layout
 
-show_excerpts: true        # show article excerpts on the home page
+show_excerpts: false        # show article excerpts on the home page
 show_frame: false           # adds a gray frame to the site
 show_sidebar: false        # show a sidebar instead of the usual header
 minimal: true             # use a dark header
@@ -28,8 +28,8 @@ external:                  # shows a footer with social links - for available ic
   - {title: Github, icon: github, url: "https://github.com/gsaldias"}
   - {title: Twitter, icon: twitter, url: "https://twitter.com/GonzaloSaldiasY"}
   - {title: LinkedIn, icon: linkedin, url: "https://www.linkedin.com/in/gonzalo-saldias/"}
-  - {title: ResearchGate, icon: ResearchGate, url: "https://www.researchgate.net/profile/Gonzalo-Saldias"}
-  - {title: Scholar Google, icon: ScholarGoogle, url: "https://scholar.google.com/citations?hl=en&user=of2oGYwAAAAJ&view_op=list_works&sortby=pubdate"}
+  - {title: ResearchGate, icon: researchgate, url: "https://www.researchgate.net/profile/Gonzalo-Saldias"}
+  - {title: Scholar Google, icon: graduation-cap, url: "https://scholar.google.com/citations?hl=en&user=of2oGYwAAAAJ&view_op=list_works&sortby=pubdate"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
