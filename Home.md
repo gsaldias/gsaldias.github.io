@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Group"
 layout: page
 ---
 [](/assets/Gonzalo_Profile.png)
