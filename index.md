@@ -2,9 +2,7 @@
 layout: page
 title: "About me"
 ---
-![Gonzalo](/assets/Gonzalo_Profile.png){: style="float: left"; margin-right: 10em; height="25%" width="25%"}
-
-El Dr. Gonzalo Saldías se incorporó al cuerpo académico del Departamento de Física (Facultad de Ciencias) de la Universidad del Bío-Bío en agosto 2018. Su investigación se enfoca en procesos físicos costeros con énfasis en circulación y dinámica de la plataforma continental y de sistemas estuarinos. El Dr. Saldías posee un PhD en Oceanografía Física de Oregon State University (Estados Unidos), ademas de un postdoctorado enfocado en modelación numérica de flujos sobre topografía (University of British Columbia, Canadá).
+![Gonzalo](/assets/Gonzalo_Profile.png){: style="float: left"}El Dr. Gonzalo Saldías se incorporó al cuerpo académico del Departamento de Física (Facultad de Ciencias) de la Universidad del Bío-Bío en agosto 2018. Su investigación se enfoca en procesos físicos costeros con énfasis en circulación y dinámica de la plataforma continental y de sistemas estuarinos. El Dr. Saldías posee un PhD en Oceanografía Física de Oregon State University (Estados Unidos), ademas de un postdoctorado enfocado en modelación numérica de flujos sobre topografía (University of British Columbia, Canadá).
 
 
 
