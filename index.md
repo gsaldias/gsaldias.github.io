@@ -2,12 +2,16 @@
 layout: page
 title: "About me"
 ---
-![Gonzalo](/assets/Gonzalo_Profile.png){: style="float: left"} ## Education
+![Gonzalo](/assets/Gonzalo_Profile.png){: style="float: left"} ##Education
 
 Gonzalo Saldías
+
 Assistant Professor
+
 Department of Physics
+
 Faculty of Science
+
 University of Bio-Bio
 
 
