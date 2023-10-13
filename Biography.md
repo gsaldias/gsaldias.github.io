@@ -23,7 +23,7 @@ layout: page
 ## Awards and distinctions
 2022 – Incorporation to the National Program Ciencia de Frontera 2022-2024 (Chilean Academy of Sciences).
 
-2019 – Award Initiation in Marine Sciences (Sociedad Chilena de Ciencias del Mar).
+2019 – Award Initiation in Marine Sciences (Chilean Marine Science Society).
 
 2017 – NSERC Banting Postdoctoral Fellowship (The Natural Sciences and Engineering Research Council of Canada).
 
