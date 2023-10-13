@@ -24,7 +24,7 @@ layout: page
 _________________________________________________________________________________________________
 
 ## The influence of freshwater outflows and plumes on the coastal ocean
-### Small river plumes from montaneous rivers
+### Small river plumes from mountainous rivers
 ![](/assets/Research_Plumes_1.jpg)
 
 ### Relevant publications
