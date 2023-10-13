@@ -23,15 +23,19 @@ layout: page
 
 _________________________________________________________________________________________________
 
-## The influence of freshwater outflows and plumes on the coastal ocean
+## The influence of freshwater plumes and outflows on the coastal ocean
 ### Small river plumes from mountainous rivers
 ![](/assets/Research_Plumes_1.jpg)
+
+### Freshwater outflows in the high latitude system off western Patagonia
+![](/assets/Research_Plumes_2.jpg)
 
 ### Relevant publications
 * Julio Salcedo-Castro, Antonio Olita, Freddy Saavedra, Gonzalo S. Saldías, Raúl Cruz-Gómez, Cristian D. de la Torre Martínez. (2023). Modelling the interannual variability of Maipo and Rapel river plumes off central Chile. Ocean Science, accepted.
 * Cristian M. Rojas, Gonzalo S. Saldías, Raúl P. Flores, Sebastián I. Vásquez, Cristian Salas, Cristian A. Vargas. (2023). A modeling study of hydrographic and flow variability along the river-influenced coastal ocean off central Chile. Ocean Modelling, doi:10.1016/j.ocemod.2022.102155.
 * Marcus Sobarzo, Camila Soto-Riquelme, Raúl P. Flores, Gonzalo S. Saldías. (2022). Synoptic flow variability in a river-influenced inner shelf off central Chile. Journal of Marine Science and Engineering, doi:10.3390/jmse10040501.
 * Raúl P. Flores, Carlos Lara, Gonzalo S. Saldías, Sebastián I. Vásquez, Alonso Roco. (2022). Spatio-temporal variability of turbid freshwater plumes in the Inner Sea of Chiloé, northern Patagonia. Journal of Marine Systems, doi:10.1016/j.jmarsys.2022.103709.
+* Alexander Galán, Gonzalo S. Saldías, Andrea Corredor-Acosta, Richard Muñoz, Carlos Lara, Jose Luis Iriarte. (2021). Argo float reveals biogeochemical characteristics along the freshwater gradient off western Patagonia. Frontiers in Marine Science, doi:10.3389/fmars.2021.613265.
 * Gonzalo S. Saldías, P. Ted Strub, R. Kipp Shearman. (2020). Spatio-temporal variability and ENSO modulation of turbid freshwater plumes along the Oregon coast. Estuarine, Coastal and Shelf Science, doi:10.1016/j.ecss.2020.106880.
 * Julio Salcedo-Castro, Gonzalo S. Saldías, Freddy Saavedra, David Donoso. (2020). Climatology of Maipo and Rapel River plumes off central Chile from numerical simulations. Regional Studies in Marine Science, doi:10.1016/j.rsma.2020.101389.
 * Gonzalo S. Saldías, Marcus Sobarzo, Renato Quiñones. (2019). Freshwater structure and its seasonal variability off western Patagonia. Progress in Oceanography, 174, 143-153.
