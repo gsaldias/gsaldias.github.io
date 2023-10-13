@@ -27,9 +27,9 @@ layout: page
 
 2017 – NSERC Banting Postdoctoral Fellowship (The Natural Sciences and Engineering Research Council of Canada).
 
-2017 – Wayne V. Burt Memorial Award for Academic Excellence (Oregon State University, Estados Unidos).
+2017 – Wayne V. Burt Memorial Award for Academic Excellence (Oregon State University, United States).
 
-2017 – CEOAS Teaching Assistant Excellence Award (Oregon State University, Estados Unidos).
+2017 – CEOAS Teaching Assistant Excellence Award (Oregon State University, United States).
 
 2010 – Fulbright Scholarship for PhD studies in United States.
 
