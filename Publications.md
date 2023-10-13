@@ -24,31 +24,31 @@ For a full list of publications, see [CV](CV.pdf)
 
 * Zeneida Wong, Gonzalo S. Saldías, John Largier, P. Ted Strub, Marcus Sobarzo. (2021). [Surface thermal structure and variability of upwelling shadows in the Gulf of Arauco, Chile](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2020JC016194). Journal of Geophysical Research: Oceans, doi:10.1029/2020JC016194.
 
-* Gonzalo S. Saldías, Wilber Hernández, Carlos Lara, Richard Muñoz, Cristian Rojas, Sebastián Vásquez, Iván Pérez-Santos, Luis Soto-Mardones. (2021). Seasonal variability of SST fronts in the Inner Sea of Chiloé and its adjacent coastal ocean. Remote Sensing, doi:10.3390/rs13020181.
+* Gonzalo S. Saldías, Wilber Hernández, Carlos Lara, Richard Muñoz, Cristian Rojas, Sebastián Vásquez, Iván Pérez-Santos, Luis Soto-Mardones. (2021). [Seasonal variability of SST fronts in the Inner Sea of Chiloé and its adjacent coastal ocean](https://www.mdpi.com/2072-4292/13/2/181). Remote Sensing, doi:10.3390/rs13020181.
 
-* Alexander Galán, Gonzalo S. Saldías, Andrea Corredor-Acosta, Richard Muñoz, Carlos Lara, Jose Luis Iriarte. (2021). Argo float reveals biogeochemical characteristics along the freshwater gradient off western Patagonia. Frontiers in Marine Science, doi:10.3389/fmars.2021.613265.
+* Alexander Galán, Gonzalo S. Saldías, Andrea Corredor-Acosta, Richard Muñoz, Carlos Lara, Jose Luis Iriarte. (2021). [Argo float reveals biogeochemical characteristics along the freshwater gradient off western Patagonia](https://www.frontiersin.org/articles/10.3389/fmars.2021.613265/full#:~:text=As%20the%20Argo%20float%20drifted,and%20the%20lowest%20nitrate%20concentrations.). Frontiers in Marine Science, doi:10.3389/fmars.2021.613265.
 
-* Gonzalo S. Saldías, Susan E. Allen. (2020). The influence of a submarine canyon on the circulation and cross-shore exchanges around an upwelling front. Journal of Physical Oceanography, doi:10.1175/JPO-D-19-0130.1.
+* Gonzalo S. Saldías, Susan E. Allen. (2020). [The influence of a submarine canyon on the circulation and cross-shore exchanges around an upwelling front](https://journals.ametsoc.org/view/journals/phoc/50/6/JPO-D-19-0130.1.xml). Journal of Physical Oceanography, doi:10.1175/JPO-D-19-0130.1.
 
-* Cristian A. Vargas, Rene Garreaud, Ricardo Barra, Felipe Vásquez-Lavin, Gonzalo S. Saldías, Oscar Parra. (2020). Environmental costs of water transfers. Nature Sustainability, doi:10.1038/s41893-020-0526-5.
+* Cristian A. Vargas, Rene Garreaud, Ricardo Barra, Felipe Vásquez-Lavin, Gonzalo S. Saldías, Oscar Parra. (2020). [Environmental costs of water transfers](https://www.nature.com/articles/s41893-020-0526-5). Nature Sustainability, doi:10.1038/s41893-020-0526-5.
 
-* Gonzalo S. Saldías, P. Ted Strub, R. Kipp Shearman. (2020). Spatio-temporal variability and ENSO modulation of turbid freshwater plumes along the Oregon coast. Estuarine, Coastal and Shelf Science, doi:10.1016/j.ecss.2020.106880.
+* Gonzalo S. Saldías, P. Ted Strub, R. Kipp Shearman. (2020). [Spatio-temporal variability and ENSO modulation of turbid freshwater plumes along the Oregon coast](https://www.sciencedirect.com/science/article/pii/S0272771419305761). Estuarine, Coastal and Shelf Science, doi:10.1016/j.ecss.2020.106880.
 
-* Gonzalo S. Saldías, Carlos Lara. (2020). Satellite-derived sea surface temperature fronts in a river-influenced coastal upwelling area off central-southern Chile. Regional Studies in Marine Science, doi:10.1016/j.rsma.2020.101322.
+* Gonzalo S. Saldías, Carlos Lara. (2020). [Satellite-derived sea surface temperature fronts in a river-influenced coastal upwelling area off central-southern Chile](https://www.sciencedirect.com/science/article/pii/S2352485520304503). Regional Studies in Marine Science, doi:10.1016/j.rsma.2020.101322.
 
-* Julio Salcedo-Castro, Gonzalo S. Saldías, Freddy Saavedra, David Donoso. (2020). Climatology of Maipo and Rapel River plumes off central Chile from numerical simulations. Regional Studies in Marine Science, doi:10.1016/j.rsma.2020.101389.
+* Julio Salcedo-Castro, Gonzalo S. Saldías, Freddy Saavedra, David Donoso. (2020). [Climatology of Maipo and Rapel River plumes off central Chile from numerical simulations](https://www.sciencedirect.com/science/article/pii/S235248552030517X). Regional Studies in Marine Science, doi:10.1016/j.rsma.2020.101389.
 
-* Gonzalo S. Saldías, Marcus Sobarzo, Renato Quiñones. (2019). Freshwater structure and its seasonal variability off western Patagonia. Progress in Oceanography, 174, 143-153.
+* Gonzalo S. Saldías, Marcus Sobarzo, Renato Quiñones. (2019). [Freshwater structure and its seasonal variability off western Patagonia](https://www.sciencedirect.com/science/article/pii/S0079661118301022). Progress in Oceanography, 174, 143-153.
 
-* Fernanda Henderikx Freitas, Gonzalo S. Saldías, Miguel Goñi, R. Kipp Shearman, Angelicque E. White. (2018). Temporal and spatial dynamics of physical and biological properties along the Endurance Array of the California Current Ecosystem. Oceanography, 31, 80-89.
+* Fernanda Henderikx Freitas, Gonzalo S. Saldías, Miguel Goñi, R. Kipp Shearman, Angelicque E. White. (2018). [Temporal and spatial dynamics of physical and biological properties along the Endurance Array of the California Current Ecosystem](https://tos.org/oceanography/article/temporal-and-spatial-dynamics-of-physical-and-biological-properties-along-t). Oceanography, 31, 80-89.
 
-* Renato Mendes, Gonzalo S. Saldías, Maite deCastro, Moncho Gómez-Gesteira, Nuno Vaz, João M. Dias. (2017). Seasonal and interannual variability of the Douro turbid river plume, northwestern Iberian Peninsula. Remote Sensing of Environment, 194, 401-411.
+* Renato Mendes, Gonzalo S. Saldías, Maite deCastro, Moncho Gómez-Gesteira, Nuno Vaz, João M. Dias. (2017). [Seasonal and interannual variability of the Douro turbid river plume, northwestern Iberian Peninsula](https://www.sciencedirect.com/science/article/pii/S0034425717301517). Remote Sensing of Environment, 194, 401-411.
 
-* Gonzalo S. Saldías, John L. Largier, Renato Mendes, Iván Pérez-Santos, Cristian A. Vargas, Marcus Sobarzo. (2016). Satellite-measured interannual variability of turbid river plumes off central–southern Chile: Spatial patterns and the influence of climate variability. Progress in Oceanography, 146, 212-222.
+* Gonzalo S. Saldías, John L. Largier, Renato Mendes, Iván Pérez-Santos, Cristian A. Vargas, Marcus Sobarzo. (2016). [Satellite-measured interannual variability of turbid river plumes off central–southern Chile: Spatial patterns and the influence of climate variability](https://www.sciencedirect.com/science/article/pii/S0079661116300210). Progress in Oceanography, 146, 212-222.
 
-* Marcus Sobarzo, Gonzalo S. Saldías, Fabian J. Tapia, Luis Bravo, Carlos Moffat, John L. Largier. (2016). On subsurface cooling associated with the Biobio River Canyon (Chile). Journal of Geophysical Research: Oceans, 121, 4568-4584, doi:10.1002/2016JC011796.
+* Marcus Sobarzo, Gonzalo S. Saldías, Fabian J. Tapia, Luis Bravo, Carlos Moffat, John L. Largier. (2016). [On subsurface cooling associated with the Biobio River Canyon (Chile)](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2016JC011796). Journal of Geophysical Research: Oceans, 121, 4568-4584, doi:10.1002/2016JC011796.
 
-* Gonzalo S. Saldías, R. Kipp Shearman, John A. Barth, Nicholas Tufillaro. (2016). Optics of the offshore Columbia River plume from glider observations and satellite imagery. Journal of Geophysical Research: Oceans, 121, 2367-2384, doi:10.1002/2015JC011431.
+* Gonzalo S. Saldías, R. Kipp Shearman, John A. Barth, Nicholas Tufillaro. (2016). [Optics of the offshore Columbia River plume from glider observations and satellite imagery](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2015JC011431). Journal of Geophysical Research: Oceans, 121, 2367-2384, doi:10.1002/2015JC011431.
 
-* Gonzalo S. Saldías, Marcus Sobarzo, John Largier, Carlos Moffat, Ricardo Letelier. (2012). Seasonal variability of turbid river plumes off central Chile based on high-resolution MODIS imagery. Remote Sensing of Environment, 123, 220-233.
+* Gonzalo S. Saldías, Marcus Sobarzo, John Largier, Carlos Moffat, Ricardo Letelier. (2012). [Seasonal variability of turbid river plumes off central Chile based on high-resolution MODIS imagery](https://www.sciencedirect.com/science/article/pii/S0034425712001290). Remote Sensing of Environment, 123, 220-233.
 
