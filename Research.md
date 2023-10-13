@@ -1,6 +1,6 @@
 ---
-title: "Research Group"
+title: "Research Projects"
 layout: page
 ---
 
-Currently page under construction
+Site currently under construction
