@@ -8,21 +8,21 @@ For a full list of publications, see [CV](CV.pdf)
 
 * Pamela Linford, Iván Pérez-Santos, Ivonne Montes, Boris Dewitte, Susana Buchan, Diego Narváez, Gonzalo S. Saldías, et al. (2023). [Recent deoxygenation of Patagonian fjords subsurface waters connected to the Peru-Chile Undercurrent and Equatorial Subsurface Water Variability](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2022GB007688). Global Biogeochemical Cycles, doi:10.1029/2022GB007688.
 
-* Richard Muñoz, Carlos Lara, Johny Arteaga, Sebastián I. Vásquez, Gonzalo S. Saldías, Raúl P. Flores, Junyu He, Bernardo R. Broitman, Bernard Cazelles. (2023). Temporal synchrony in satellite-derived ocean parameters in the Inner Sea of Chiloé, northern Patagonia, Chile. Remote Sensing, doi:10.3390/rs15082182.
+* Richard Muñoz, Carlos Lara, Johny Arteaga, Sebastián I. Vásquez, Gonzalo S. Saldías, Raúl P. Flores, Junyu He, Bernardo R. Broitman, Bernard Cazelles. (2023). [Temporal synchrony in satellite-derived ocean parameters in the Inner Sea of Chiloé, northern Patagonia, Chile](https://www.mdpi.com/2072-4292/15/8/2182). Remote Sensing, doi:10.3390/rs15082182.
 
-* Cristian M. Rojas, Gonzalo S. Saldías, Raúl P. Flores, Sebastián I. Vásquez, Cristian Salas, Cristian A. Vargas. (2023). A modeling study of hydrographic and flow variability along the river-influenced coastal ocean off central Chile. Ocean Modelling, doi:10.1016/j.ocemod.2022.102155.
+* Cristian M. Rojas, Gonzalo S. Saldías, Raúl P. Flores, Sebastián I. Vásquez, Cristian Salas, Cristian A. Vargas. (2023). [A modeling study of hydrographic and flow variability along the river-influenced coastal ocean off central Chile](https://www.sciencedirect.com/science/article/pii/S146350032200169X). Ocean Modelling, doi:10.1016/j.ocemod.2022.102155.
 
-* Jurleys P. Vellojin, Gonzalo S. Saldías, Susan E. Allen, Rodrigo Torres, Maximiliano Vergara, Marcus Sobarzo, Mike DeGrandpre, Jose Luis Iriarte. (2022). Understanding the implications of hydrographic processes on the dynamics of the carbonate system in a Sub-Antarctic marine-terminating glacier-fjord (53°S). Frontiers in Marine Science, doi:10.3389/fmars.2022.643811.
+* Jurleys P. Vellojin, Gonzalo S. Saldías, Susan E. Allen, Rodrigo Torres, Maximiliano Vergara, Marcus Sobarzo, Mike DeGrandpre, Jose Luis Iriarte. (2022). [Understanding the implications of hydrographic processes on the dynamics of the carbonate system in a Sub-Antarctic marine-terminating glacier-fjord (53°S)](https://www.frontiersin.org/articles/10.3389/fmars.2022.643811/full). Frontiers in Marine Science, doi:10.3389/fmars.2022.643811.
 
-* Marcus Sobarzo, Camila Soto-Riquelme, Raúl P. Flores, Gonzalo S. Saldías. (2022). Synoptic flow variability in a river-influenced inner shelf off central Chile. Journal of Marine Science and Engineering, doi:10.3390/jmse10040501.
+* Marcus Sobarzo, Camila Soto-Riquelme, Raúl P. Flores, Gonzalo S. Saldías. (2022). [Synoptic flow variability in a river-influenced inner shelf off central Chile](https://www.mdpi.com/2077-1312/10/4/501). Journal of Marine Science and Engineering, doi:10.3390/jmse10040501.
 
-* Saurav Sahu, Susan E. Allen, Gonzalo S. Saldías, Jody M. Klymak, Li Zhai. (2022). Spatial and temporal origins of the La Perouse low oxygen pool: A combined Lagrangian approach. Journal of Geophysical Research: Oceans, doi:10.1029/2021JC018135.
+* Saurav Sahu, Susan E. Allen, Gonzalo S. Saldías, Jody M. Klymak, Li Zhai. (2022). [Spatial and temporal origins of the La Perouse low oxygen pool: A combined Lagrangian approach](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2021JC018135). Journal of Geophysical Research: Oceans, doi:10.1029/2021JC018135.
 
-* Raúl P. Flores, Carlos Lara, Gonzalo S. Saldías, Sebastián I. Vásquez, Alonso Roco. (2022). Spatio-temporal variability of turbid freshwater plumes in the Inner Sea of Chiloé, northern Patagonia. Journal of Marine Systems, doi:10.1016/j.jmarsys.2022.103709.
+* Raúl P. Flores, Carlos Lara, Gonzalo S. Saldías, Sebastián I. Vásquez, Alonso Roco. (2022). [Spatio-temporal variability of turbid freshwater plumes in the Inner Sea of Chiloé, northern Patagonia](https://www.sciencedirect.com/science/article/pii/S0924796322000100). Journal of Marine Systems, doi:10.1016/j.jmarsys.2022.103709.
 
-* Gonzalo S. Saldías, Karina Ramos-Musalem, Susan E. Allen. (2021). Circulation and upwelling induced by coastal trapped waves over a submarine canyon in an idealized eastern boundary margin. Geophysical Research Letters, doi:10.1029/2021GL093548.
+* Gonzalo S. Saldías, Karina Ramos-Musalem, Susan E. Allen. (2021). [Circulation and upwelling induced by coastal trapped waves over a submarine canyon in an idealized eastern boundary margin](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2021GL093548). Geophysical Research Letters, doi:10.1029/2021GL093548.
 
-* Zeneida Wong, Gonzalo S. Saldías, John Largier, P. Ted Strub, Marcus Sobarzo. (2021). Surface thermal structure and variability of upwelling shadows in the Gulf of Arauco, Chile. Journal of Geophysical Research: Oceans, doi:10.1029/2020JC016194.
+* Zeneida Wong, Gonzalo S. Saldías, John Largier, P. Ted Strub, Marcus Sobarzo. (2021). [Surface thermal structure and variability of upwelling shadows in the Gulf of Arauco, Chile](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2020JC016194). Journal of Geophysical Research: Oceans, doi:10.1029/2020JC016194.
 
 * Gonzalo S. Saldías, Wilber Hernández, Carlos Lara, Richard Muñoz, Cristian Rojas, Sebastián Vásquez, Iván Pérez-Santos, Luis Soto-Mardones. (2021). Seasonal variability of SST fronts in the Inner Sea of Chiloé and its adjacent coastal ocean. Remote Sensing, doi:10.3390/rs13020181.
 
