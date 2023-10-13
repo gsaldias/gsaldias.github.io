@@ -29,6 +29,7 @@ external:                  # shows a footer with social links - for available ic
   - {title: LinkedIn, icon: linkedin, url: "https://www.linkedin.com/in/gonzalo-saldias/"}
   - {title: ResearchGate, icon: researchgate, url: "https://www.researchgate.net/profile/Gonzalo-Saldias"}
   - {title: Scholar Google, icon: graduation-cap, url: "https://scholar.google.com/citations?hl=en&user=of2oGYwAAAAJ&view_op=list_works&sortby=pubdate"}
+  - {title: Orcid, icon: orcid, url: "https://orcid.org/my-orcid?orcid=0000-0003-3462-464X"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
