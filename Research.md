@@ -20,4 +20,5 @@ layout: page
 * Revisiting coastal upwelling and cross-shore transport off central-southern Chile: The impact of submarine canyons. FONDECYT Regular 1220167, 2022-2026.
 * The missing peace of the puzzle: exploring the role of submarine canyons on the functioning of coastal upwelling system off central-southern Chile. Concurso Nacional de Acceso a Embarcaciones para Investigación Científica 2022 (AUB2200011).
 _________________________________________________________________________________________________
+## The influence of freshwater outflows and plumes on the coastal ocean
 
