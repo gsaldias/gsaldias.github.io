@@ -24,7 +24,7 @@ layout: page
 _________________________________________________________________________________________________
 
 ## The influence of freshwater plumes and outflows on the coastal ocean
-### Small river plumes from mountainous rivers
+### River plumes from small mountainous rivers
 ![](/assets/Research_Plumes_1.jpg)
 
 ### Freshwater outflows in the high latitude system off western Patagonia
