@@ -19,7 +19,8 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 #  - {file: "Home.md", title: Home, icon: home}
   - {file: "Research.md", title: Research}
   - {file: "Publications.md", title: Publications}
-  - {file: "People.md", title: Group}
+#  - {file: "People.md", title: Group}
+  - {file: "Biography.md", title: Biography}
   - {url: "https://gsaldias.github.io/CV.pdf", title: CV}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
