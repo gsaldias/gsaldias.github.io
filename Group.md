@@ -3,4 +3,4 @@ title: "Research Group"
 layout: page
 ---
 
-Currently page under construction
+Site currently under construction
