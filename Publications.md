@@ -4,9 +4,9 @@ layout: page
 ---
 For a full list of publications, see [CV](CV.pdf)
 
-* Richard Muñoz, Odette A. Vergara, Pedro A. Figueroa, Piero Mardones, Marcus Sobarzo, Gonzalo S. Saldías. (2023). On the phenology of coastal upwelling off central-southern Chile. Dynamics of Atmospheres and Oceans, accepted.
-
 * Julio Salcedo-Castro, Antonio Olita, Freddy Saavedra, Gonzalo S. Saldías, Raúl Cruz-Gómez, Cristian D. de la Torre Martínez. (2023). Modelling the interannual variability of Maipo and Rapel river plumes off central Chile. Ocean Science, accepted.
+
+* Richard Muñoz, Odette A. Vergara, Pedro A. Figueroa, Piero Mardones, Marcus Sobarzo, Gonzalo S. Saldías. (2023). [On the phenology of coastal upwelling off central-southern Chile](https://www.sciencedirect.com/science/article/abs/pii/S0377026523000568?via%3Dihub). Dynamics of Atmospheres and Oceans, doi:10.1016/j.dynatmoce.2023.101405.
 
 * Pamela Linford, Iván Pérez-Santos, Ivonne Montes, Boris Dewitte, Susana Buchan, Diego Narváez, Gonzalo S. Saldías, et al. (2023). [Recent deoxygenation of Patagonian fjords subsurface waters connected to the Peru-Chile Undercurrent and Equatorial Subsurface Water Variability](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2022GB007688). Global Biogeochemical Cycles, doi:10.1029/2022GB007688.
 
