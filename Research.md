@@ -17,6 +17,7 @@ layout: page
 * Marcus Sobarzo, Gonzalo S. Saldías, Fabian J. Tapia, Luis Bravo, Carlos Moffat, John L. Largier. (2016). On subsurface cooling associated with the Biobio River Canyon (Chile). Journal of Geophysical Research: Oceans, 121, 4568-4584, doi:10.1002/2016JC011796.
 
 ### Research Projects
+* A modeling study of the influence of the Biobio Canyon on physical and biogeochemical processes off central Chile. ECOS-ANID 2023, 2024-2026. Principal Investigator.
 * Revisiting coastal upwelling and cross-shore transport off central-southern Chile: The impact of submarine canyons. FONDECYT Regular 1220167, 2022-2026. Principal Investigator.
 * The missing peace of the puzzle: exploring the role of submarine canyons on the functioning of coastal upwelling system off central-southern Chile. Concurso Nacional de Acceso a Embarcaciones para Investigación Científica 2022 (AUB2200011). Principal Investigator.
 * The impact of numerous submarine canyons on upwelling of deep/slope water onto the continental shelf. NSERC-Canada 2018-2019. Principal Investigator.
@@ -31,7 +32,8 @@ ________________________________________________________________________________
 ![](/assets/Research_Plumes_2.jpg)
 
 ### Relevant publications
-* Julio Salcedo-Castro, Antonio Olita, Freddy Saavedra, Gonzalo S. Saldías, Raúl Cruz-Gómez, Cristian D. de la Torre Martínez. (2023). Modelling the interannual variability of Maipo and Rapel river plumes off central Chile. Ocean Science, accepted.
+* Alonso Roco, Raúl P. Flores, Megan Williams, Gonzalo S. Saldías. (2024). Observations of river-wave interactions at a small-scale river mouth. Coastal Engineering, doi:10.1016/j.coastaleng.2024.104456.
+* Julio Salcedo-Castro, Antonio Olita, Freddy Saavedra, Gonzalo S. Saldías, Raúl Cruz-Gómez, Cristian D. de la Torre Martínez. (2023). Modelling the interannual variability of Maipo and Rapel river plumes off central Chile. Ocean Science, doi:10.5194/os-19-1687-2023.
 * Cristian M. Rojas, Gonzalo S. Saldías, Raúl P. Flores, Sebastián I. Vásquez, Cristian Salas, Cristian A. Vargas. (2023). A modeling study of hydrographic and flow variability along the river-influenced coastal ocean off central Chile. Ocean Modelling, doi:10.1016/j.ocemod.2022.102155.
 * Marcus Sobarzo, Camila Soto-Riquelme, Raúl P. Flores, Gonzalo S. Saldías. (2022). Synoptic flow variability in a river-influenced inner shelf off central Chile. Journal of Marine Science and Engineering, doi:10.3390/jmse10040501.
 * Raúl P. Flores, Carlos Lara, Gonzalo S. Saldías, Sebastián I. Vásquez, Alonso Roco. (2022). Spatio-temporal variability of turbid freshwater plumes in the Inner Sea of Chiloé, northern Patagonia. Journal of Marine Systems, doi:10.1016/j.jmarsys.2022.103709.
@@ -44,6 +46,7 @@ ________________________________________________________________________________
 * Gonzalo S. Saldías, John L. Largier, Renato Mendes, Iván Pérez-Santos, Cristian A. Vargas, Marcus Sobarzo. (2016). Satellite-measured interannual variability of turbid river plumes off central–southern Chile: Spatial patterns and the influence of climate variability. Progress in Oceanography, 146, 212-222.
 
 ### Research Projects
+* Variabilidad meridional en el contenido de agua dulce, flujo geostrófico, y estructura termohalina en el océano costero de la Patagonia Chilena: implicancias en la formación de agregaciones de zooplancton. CIMAR 29 Fiordos CONA C29F 24-05, 2024. Principal Investigator.
 * The fate of freshwater in the surfzone: assessing the roles of the short and long wave forcings. FONDECYT Regular 1231494, 2023-2027. Co-investigator.
 * Bio-optical gradients along the river-estuary-coastal ocean continuum of northern Patagonia. FONDECYT Regular 1230420, 2023-2026. Co-investigator.
 * Submesoscale frontal dynamics of a river-influenced continental shelf off central Chile. FONDECYT Regular 1190805, 2019-2022. Principal Investigator.
