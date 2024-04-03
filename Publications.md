@@ -4,6 +4,8 @@ layout: page
 ---
 For a full list of publications, see [CV](CV.pdf)
 
+* Luis Bustos-Espinoza, Patricio Torres-Ramírez, Sergio Figueroa, Pablo González, Marcelo Pavez, Rodolfo Jerez, Gonzalo S. Saldías, Claudio Espinoza, Alexander Galán. (2024). Biogeochemical response of the pelagic system of Concepción Bay, Chile, to a new regime of atmospheric and oceanographic variability. Geosciences, accepted.
+
 * Alonso Roco, Raúl Flores, Megan Williams, Gonzalo S. Saldías. (2024). [Observations of river-wave interactions at a small-scale river mouth](https://www.sciencedirect.com/science/article/pii/S0378383924000048#:~:text=Numerical%20studies%20on%20small%2Dscale,and%20confine%20it%20to%20the). Coastal Engineering, doi:10.1016/j.coastaleng.2024.104456.
 
 * Julio Salcedo-Castro, Antonio Olita, Freddy Saavedra, Gonzalo S. Saldías, Raúl Cruz-Gómez, Cristian D. de la Torre Martínez. (2023). [Modelling the interannual variability of Maipo and Rapel river plumes off central Chile](https://os.copernicus.org/articles/19/1687/2023/os-19-1687-2023.pdf). Ocean Science, doi:10.5194/os-19-1687-2023.
