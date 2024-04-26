@@ -32,6 +32,7 @@ ________________________________________________________________________________
 ![](/assets/Research_Plumes_2.jpg)
 
 ### Relevant publications
+* Gonzalo S. Saldías, Pedro A. Figueroa, David Carrasco, Diego A. Narváez, Iván Pérez-Santos, Carlos Lara. (2024). Satellite-derived variability of sea surface salinity and geostrophic currents off Western Patagonia. Remote Sensing. doi:10.3390/rs16091482.
 * Alonso Roco, Raúl P. Flores, Megan Williams, Gonzalo S. Saldías. (2024). Observations of river-wave interactions at a small-scale river mouth. Coastal Engineering, doi:10.1016/j.coastaleng.2024.104456.
 * Julio Salcedo-Castro, Antonio Olita, Freddy Saavedra, Gonzalo S. Saldías, Raúl Cruz-Gómez, Cristian D. de la Torre Martínez. (2023). Modelling the interannual variability of Maipo and Rapel river plumes off central Chile. Ocean Science, doi:10.5194/os-19-1687-2023.
 * Cristian M. Rojas, Gonzalo S. Saldías, Raúl P. Flores, Sebastián I. Vásquez, Cristian Salas, Cristian A. Vargas. (2023). A modeling study of hydrographic and flow variability along the river-influenced coastal ocean off central Chile. Ocean Modelling, doi:10.1016/j.ocemod.2022.102155.
