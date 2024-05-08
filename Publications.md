@@ -4,7 +4,7 @@ layout: page
 ---
 For a full list of publications, see [CV](CV.pdf)
 
-* Luis Bustos-Espinoza, Patricio Torres-Ramírez, Sergio Figueroa, Pablo González, Marcelo Pavez, Rodolfo Jerez, Gonzalo S. Saldías, Claudio Espinoza, Alexander Galán. (2024). Biogeochemical response of the pelagic system of Concepción Bay, Chile, to a new regime of atmospheric and oceanographic variability. Geosciences, accepted.
+* Luis Bustos-Espinoza, Patricio Torres-Ramírez, Sergio Figueroa, Pablo González, Marcelo Pavez, Rodolfo Jerez, Gonzalo S. Saldías, Claudio Espinoza, Alexander Galán. (2024). [Biogeochemical response of the pelagic system of Concepción Bay, Chile, to a new regime of atmospheric and oceanographic variability](https://www.mdpi.com/2076-3263/14/5/125). Geosciences, doi:10.3390/geosciences14050125.
 
 * Gonzalo S. Saldías, Pedro A. Figueroa, David Carrasco, Diego A. Narváez, Iván Pérez-Santos, Carlos Lara. (2024). [Satellite-derived variability of sea surface salinity and geostrophic currents off Western Patagonia](https://www.mdpi.com/2072-4292/16/9/1482). Remote Sensing, doi:10.3390/rs16091482.
 
