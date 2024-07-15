@@ -47,6 +47,7 @@ ________________________________________________________________________________
 * Gonzalo S. Saldías, John L. Largier, Renato Mendes, Iván Pérez-Santos, Cristian A. Vargas, Marcus Sobarzo. (2016). Satellite-measured interannual variability of turbid river plumes off central–southern Chile: Spatial patterns and the influence of climate variability. Progress in Oceanography, 146, 212-222.
 
 ### Research Projects
+* Estructura y variabilidad de alta frecuencia de frentes termohalinos en la zona de canales y fiordos entre el Estrecho de Magallanes y el Canal Beagle. CIMAR 27 Fiordos CONA C27F, 2024. Principal Investigator.
 * Variabilidad meridional en el contenido de agua dulce, flujo geostrófico, y estructura termohalina en el océano costero de la Patagonia Chilena: implicancias en la formación de agregaciones de zooplancton. CIMAR 29 Fiordos CONA C29F 24-05, 2024. Principal Investigator.
 * The fate of freshwater in the surfzone: assessing the roles of the short and long wave forcings. FONDECYT Regular 1231494, 2023-2027. Co-investigator.
 * Bio-optical gradients along the river-estuary-coastal ocean continuum of northern Patagonia. FONDECYT Regular 1230420, 2023-2026. Co-investigator.
