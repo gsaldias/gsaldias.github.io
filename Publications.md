@@ -4,6 +4,10 @@ layout: page
 ---
 For a full list of publications, see [CV](CV.pdf)
 
+* Odette A. Vergara, Pedro A. Figueroa, Cristian Salas, Sebastián I. Vásquez, Richard Muñoz, Gonzalo S. Saldías. (2024). [The influence of the Biobio Canyon on the circulation and coastal upwelling/downwelling off central Chile](https://www.sciencedirect.com/science/article/pii/S0278434324001651). Continental Shelf Research, doi:10.1016/j.csr.2024.105335.
+
+* Elizabeth D. Curra-Sánchez, Aline de M. Valerio, Carlos Lara, Wirmer García-Tuñon, Bernardo R. Broitman, Gonzalo S. Saldías, Jorge Nimptsch, Cristian A. Vargas. (2024). [CDOM dynamics in two coastal zones influenced by contrasting land uses in northern Patagonia](https://www.sciencedirect.com/science/article/pii/S0272771424002853). Estuarine, Coastal and Shelf Science, doi:10.1016/j.ecss.2024.108897.
+
 * Macarena Díaz-Astudillo, Ramiro Riquelme-Bugueño, Gonzalo S. Saldías, Jaime Letelier. (2024). [Mesoscale and climate environmental variability drive krill community changes in the Humboldt Current System](https://www.sciencedirect.com/science/article/pii/S0924796324000368?via%3Dihub). Journal of Marine Systems, doi:10.1016/j.jmarsys.2024.103998.
 
 * Luis Bustos-Espinoza, Patricio Torres-Ramírez, Sergio Figueroa, Pablo González, Marcelo Pavez, Rodolfo Jerez, Gonzalo S. Saldías, Claudio Espinoza, Alexander Galán. (2024). [Biogeochemical response of the pelagic system of Concepción Bay, Chile, to a new regime of atmospheric and oceanographic variability](https://www.mdpi.com/2076-3263/14/5/125). Geosciences, doi:10.3390/geosciences14050125.
