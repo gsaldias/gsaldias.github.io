@@ -11,6 +11,7 @@ layout: page
 ![](/assets/Research_Canyons_2.jpg)
 
 ### Relevant publications
+* Pedro A. Figueroa, Gonzalo S. Saldías, Susan E. Allen. (2025). The influence of a submarine canyon on the wind-driven downwelling circulation over the continental shelf. Ocean Science, doi:10.5194/os-21-643-2025.
 * Odette Vergara, Pedro Figueroa, Cristian Salas, Sebastián I. Vásquez, Richard Muñoz, Gonzalo S. Saldías. (2024). The influence of the Biobio Canyon on the circulation and coastal upwelling/downwelling off central Chile. Continental Shelf Research, doi:10.1016/j.csr.2024.105335.
 * Saurav Sahu, Susan E. Allen, Gonzalo S. Saldías, Jody M. Klymak, Li Zhai. (2022). Spatial and temporal origins of the La Perouse low oxygen pool: A combined Lagrangian approach. Journal of Geophysical Research: Oceans, doi:10.1029/2021JC018135.
 * Gonzalo S. Saldías, Karina Ramos-Musalem, Susan E. Allen. (2021). Circulation and upwelling induced by coastal trapped waves over a submarine canyon in an idealized eastern boundary margin. Geophysical Research Letters, doi:10.1029/2021GL093548.
