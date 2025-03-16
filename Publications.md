@@ -4,7 +4,7 @@ layout: page
 ---
 For a full list of publications, see [CV](CV.pdf)
 
-* Pedro A. Figueroa, Gonzalo S. Saldías, Susan E. Allen. (2025). The influence of a submarine canyon on the wind-driven downwelling circulation over the continental shelf. Ocean Science, accepted.
+* Pedro A. Figueroa, Gonzalo S. Saldías, Susan E. Allen. (2025). [The influence of a submarine canyon on the wind-driven downwelling circulation over the continental shelf](https://os.copernicus.org/articles/21/643/2025/). Ocean Science, doi:10.5194/os-21-643-2025.
 
 * Andrea Corredor-Acosta, Alexander Galán, Gonzalo S. Saldías, Jorge I. Mardones, Johanna Medellín-Mora, Máximo Frangopulos, Takuhei Shiozaki, Naomi Harada, Humberto E. González, José L. Iriarte. (2025). [Oceanic phytoplankton structure off western Patagonia during the austral summer: Implications for harmful algal blooms](https://www.sciencedirect.com/science/article/abs/pii/S0079661124002155). Progress in Oceanography, doi:10.1016/j.pocean.2024.103409.
 
