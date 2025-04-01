@@ -6,6 +6,9 @@ For a full list of publications, see [CV](CV.pdf)
 
 * Pedro A. Figueroa, Gonzalo S. Saldías, Susan E. Allen. (2025). [The influence of a submarine canyon on the wind-driven downwelling circulation over the continental shelf](https://os.copernicus.org/articles/21/643/2025/). Ocean Science, doi:10.5194/os-21-643-2025.
 
+* Yosvany García-Santos, Diego A. Narváez, Martin Jacqués-Coper, Gonzalo S. Saldías, Deniz Bozkurt, Benjamin M. Alessio. (2025). [Dominant Wind Patterns Under the Influence of
+Atmospheric Rivers: Implications for Coastal Upwelling off Central‐Southern Chile](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024JC021444). Journal of Geophysical Research: Oceans, doi:10.1029/2024JC021444.
+
 * Andrea Corredor-Acosta, Alexander Galán, Gonzalo S. Saldías, Jorge I. Mardones, Johanna Medellín-Mora, Máximo Frangopulos, Takuhei Shiozaki, Naomi Harada, Humberto E. González, José L. Iriarte. (2025). [Oceanic phytoplankton structure off western Patagonia during the austral summer: Implications for harmful algal blooms](https://www.sciencedirect.com/science/article/abs/pii/S0079661124002155). Progress in Oceanography, doi:10.1016/j.pocean.2024.103409.
 
 * Odette A. Vergara, Pedro A. Figueroa, Cristian Salas, Sebastián I. Vásquez, Richard Muñoz, Gonzalo S. Saldías. (2024). [The influence of the Biobio Canyon on the circulation and coastal upwelling/downwelling off central Chile](https://www.sciencedirect.com/science/article/pii/S0278434324001651). Continental Shelf Research, doi:10.1016/j.csr.2024.105335.
