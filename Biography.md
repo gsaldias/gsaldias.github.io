@@ -6,15 +6,17 @@ layout: page
 ## Research experience and academic employment
 2018 – present: Assistant Professor, Department of Physics, Faculty of Sciences, University of Bio-Bio, Concepción, Chile.
 
-2021 – present: Associate Investigator, Research Center for Oceanographic Research COPAS COASTAL, Chile.
+2024 – present: Associate Investigator, Research Center for Oceanographic Research COPAS COASTAL, Chile.
+
+2021 – 2024: Associate Investigator, Research Center for Oceanographic Research COPAS COASTAL, Chile.
 
 2021 – present: Adjunct Investigator, Research Center Millennium Institute SECOS, Chile.
+
+2020 – 2025: Associate Investigator, FONDAP Research Center IDEAL, Chile.
 
 2018 – 2020: Young Investigator, Research Center Millennium Nucleous MUSELS, Chile.
 
 2017 – 2019: Postdoctoral Investigator, University of British Columbia, Canadá.
-
-2016 – present: Associate Investigator, FONDAP Research Center IDEAL, Chile.
 
 2011 – 2017: Graduate Research Assistant, Oregon State University, Estados Unidos.
 
