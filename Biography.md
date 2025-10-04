@@ -10,7 +10,7 @@ layout: page
 
 2021 – 2024: Associate Investigator, Research Center for Oceanographic Research COPAS COASTAL, Chile.
 
-2021 – present: Adjunct Investigator, Research Center Millennium Institute SECOS, Chile.
+2021 – 2025: Adjunct Investigator, Research Center Millennium Institute SECOS, Chile.
 
 2020 – 2025: Associate Investigator, FONDAP Research Center IDEAL, Chile.
 
