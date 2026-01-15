@@ -4,6 +4,10 @@ layout: page
 ---
 
 ## Research experience and academic employment
+2026 – present: Editor, Journal of Geophysical Research: Oceans.
+
+2026: Guest editor, Continental Shelf Research, Special Issue Latin American Coastal Studies on Physical Processes.
+
 2018 – present: Assistant Professor, Department of Physics, Faculty of Sciences, University of Bio-Bio, Concepción, Chile.
 
 2024 – present: Principal Investigator, Research Center for Oceanographic Research COPAS COASTAL, Chile.
