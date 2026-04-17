@@ -4,7 +4,7 @@ layout: page
 ---
 For a full list of publications, see [CV](CV.pdf)
 
-* Francesca V. Search, Odette A. Vergara, Fabián J. Tapia, Sergio A. Navarrete, Pedro A. Figueroa, Loretto Contreras-Porcia, Gonzalo S. Saldías. (2026). [Circulation and hydrographic conditions in an upwelling-influenced bay of central Chile.](https://www.sciencedirect.com/science/article/abs/pii/S0924796326000187). Journal of Marine Systems, doi:10.1016/j.jmarsys.2026.104196.
+* Francesca V. Search, Odette A. Vergara, Fabián J. Tapia, Sergio A. Navarrete, Pedro A. Figueroa, Loretto Contreras-Porcia, Gonzalo S. Saldías. (2026). [Circulation and hydrographic conditions in an upwelling-influenced bay of central Chile.](https://www.sciencedirect.com/science/article/abs/pii/S0924796326000187). , doi:10.1016/j.jmarsys.2026.104196.
 
 * Yosvany Garcia-Santos, Diego A. Narváez, Gonzalo S. Saldías, Martín Jacques-Coper, Deniz Bozkurt, René Garreaud, Valentina Valdés-Castro. (2025). [Impact of atmospheric rivers on coastal oceanographic conditions off central-southern Chile](https://www.nature.com/articles/s41598-025-17997-w). Scientific Reports, doi:10.1038/s41598-025-17997-w.
 
