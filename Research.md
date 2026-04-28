@@ -11,7 +11,9 @@ layout: page
 ![](/assets/Research_Canyons_2.jpg)
 
 ### Relevant publications
+* Marcus Sobarzo, Piero Mardones, Gonzalo S. Saldías. (2026). Baroclinic semidiurnal tidal currents over the head of the Biobio Canyon, central Chile. Journal of Marine Science and Engineering, doi:10.3390/jmse14090811.
 * Pedro A. Figueroa, Gonzalo S. Saldías, Susan E. Allen. (2025). The influence of a submarine canyon on the wind-driven downwelling circulation over the continental shelf. Ocean Science, doi:10.5194/os-21-643-2025.
+* Macarena Díaz-Astudillo, Manuel Castillo, Pedro A. Figueroa, Leonardo R. Castro, Ramiro Riquelme-Bugueño, Iván Pérez-Santos, Oscar Pizarro, and Gonzalo S. Saldías. (2025). Cross-canyon variability in zooplankton backscattering strength in a river-influenced upwelling area. Ocean Science, doi:10.5194/os-21-1833-2025.
 * Odette Vergara, Pedro Figueroa, Cristian Salas, Sebastián I. Vásquez, Richard Muñoz, Gonzalo S. Saldías. (2024). The influence of the Biobio Canyon on the circulation and coastal upwelling/downwelling off central Chile. Continental Shelf Research, doi:10.1016/j.csr.2024.105335.
 * Saurav Sahu, Susan E. Allen, Gonzalo S. Saldías, Jody M. Klymak, Li Zhai. (2022). Spatial and temporal origins of the La Perouse low oxygen pool: A combined Lagrangian approach. Journal of Geophysical Research: Oceans, doi:10.1029/2021JC018135.
 * Gonzalo S. Saldías, Karina Ramos-Musalem, Susan E. Allen. (2021). Circulation and upwelling induced by coastal trapped waves over a submarine canyon in an idealized eastern boundary margin. Geophysical Research Letters, doi:10.1029/2021GL093548.
@@ -19,9 +21,15 @@ layout: page
 * Marcus Sobarzo, Gonzalo S. Saldías, Fabian J. Tapia, Luis Bravo, Carlos Moffat, John L. Largier. (2016). On subsurface cooling associated with the Biobio River Canyon (Chile). Journal of Geophysical Research: Oceans, 121, 4568-4584, doi:10.1002/2016JC011796.
 
 ### Research Projects
+* Cañones Submarinos del Archipiélago de Humboldt. Fondo Regional para la Productividad y el Desarrollo (FRPD), Gobierno Regional de Coquimbo, 2025. Co-investigator.
+* Muestreo integral del cañón submarino de isla Chañaral para entender su importancia
+para los depredadores superiores. ANID Acceso a embarcaciones para investigación científica 2024, AEC240003, 2024. Co-investigator.
 * A modeling study of the influence of the Biobio Canyon on physical and biogeochemical processes off central Chile. ECOS-ANID 2023, 2024-2026. Principal Investigator.
 * Revisiting coastal upwelling and cross-shore transport off central-southern Chile: The impact of submarine canyons. FONDECYT Regular 1220167, 2022-2026. Principal Investigator.
 * The missing peace of the puzzle: exploring the role of submarine canyons on the functioning of coastal upwelling system off central-southern Chile. Concurso Nacional de Acceso a Embarcaciones para Investigación Científica 2022 (AUB2200011). Principal Investigator.
+* Cuál es el rol de los cañones submarinos en la formación y persistencia de hotspots de
+eufáusidos en el sistema de surgencia costera de Chile centro-sur?. Fondecyt de Postdoctorado
+2023, 3230183, 2023-2026 (Sponsoring Investigator).
 * The impact of numerous submarine canyons on upwelling of deep/slope water onto the continental shelf. NSERC-Canada 2018-2019. Principal Investigator.
 
 _________________________________________________________________________________________________
@@ -34,6 +42,7 @@ ________________________________________________________________________________
 ![](/assets/Research_Plumes_2.jpg)
 
 ### Relevant publications
+* Yosvany Garcia-Santos, Diego A. Narváez, Gonzalo S. Saldías, Martín Jacques-Coper, Deniz Bozkurt, René Garreaud, Valentina Valdés-Castro. (2025). Impact of Atmospheric Rivers on Coastal Oceanographic Conditions oﬀ central-southern Chile. Scientific Reports, doi:10.1038/s41598-025-17997-w.
 * Gonzalo S. Saldías, Pedro A. Figueroa, David Carrasco, Diego A. Narváez, Iván Pérez-Santos, Carlos Lara. (2024). Satellite-derived variability of sea surface salinity and geostrophic currents off Western Patagonia. Remote Sensing. doi:10.3390/rs16091482.
 * Alonso Roco, Raúl P. Flores, Megan Williams, Gonzalo S. Saldías. (2024). Observations of river-wave interactions at a small-scale river mouth. Coastal Engineering, doi:10.1016/j.coastaleng.2024.104456.
 * Julio Salcedo-Castro, Antonio Olita, Freddy Saavedra, Gonzalo S. Saldías, Raúl Cruz-Gómez, Cristian D. de la Torre Martínez. (2023). Modelling the interannual variability of Maipo and Rapel river plumes off central Chile. Ocean Science, doi:10.5194/os-19-1687-2023.
